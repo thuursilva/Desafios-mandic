@@ -1,0 +1,9 @@
+Orientações de cada projeto
+
+O primeiro projeto,"CalculoIMC.java", deve ser executado em uma IDE para desenvolvimento em Java (Por exemplo, NetBeans e Eclipse) ou uma IDE online.
+Ao executar o projeto, ele pedirá ao usuário que digite seu peso e altura, ao receber esses 2 dados ele realizará o cálculo de imc do usuário.
+O projeto exibe o imc e a situação de saúde correspondente.
+
+O segundo projeto,"Alfabeto.java", deve ser executado da mesma forma.
+Executado, o projeto pede para o usuário digitar uma frase onde cada letra será analisada e ,se necessário, convertida de acordo com as regras 
+preestabelecidas. Ao final do projeto, ele irá exibir a frase convertida no seu novo alfabeto.
