@@ -1,1 +1,1 @@
-# Desafios-mandic
+# Desafios do processo seletivo Mandic.
